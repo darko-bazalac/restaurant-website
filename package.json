@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Drako Bazalac bazalac.darko@outlook.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darko-bazalac/restaurant-page.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/darko-bazalac/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/darko-bazalac/restaurant-page#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
