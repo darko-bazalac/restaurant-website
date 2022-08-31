@@ -4,7 +4,7 @@
 In order to setup and work on this project on your own, you will need to:
 
 1 Clone this project:
-git clone https://github.com/pret3nti0u5/Restaurant-Page.git
+git clone
 
 2 Once you have cloned this project, you can install the required dependencies by using:
 npm install
