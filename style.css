@@ -1,5 +1,5 @@
 :root {
-  --home-background-img: url("../dist/images/simple-hexagonal-pattern.jpg");
+  --home-background-img: url("./images/simple-hexagonal-pattern.jpg");
 }
 
 * {
