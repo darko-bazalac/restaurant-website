@@ -4,7 +4,7 @@ function createHeader(id) {
 
   const logo = document.createElement("img");
   logo.setAttribute("id", "logo");
-  logo.src = "../dist/images/logo1.png";
+  logo.src = "./images/logo1.png";
   header.appendChild(logo);
 
   return header;

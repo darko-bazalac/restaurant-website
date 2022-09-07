@@ -27,7 +27,7 @@ function createContactCopy() {
 function addImage() {
   const contactUsImg = document.createElement("img");
   contactUsImg.setAttribute("id", "contact-img");
-  contactUsImg.src = "../dist/images/location.png";
+  contactUsImg.src = "./images/location.png";
 
   return contactUsImg;
 }
@@ -54,7 +54,7 @@ function loadContact() {
 
   const mobileImg = document.createElement("img");
   mobileImg.setAttribute("id", "mobile-img");
-  mobileImg.src = "../dist/images/location.png";
+  mobileImg.src = "./images/location.png";
 
   contactUsTab.appendChild(mobileImg);
 }

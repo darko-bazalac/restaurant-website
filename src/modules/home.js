@@ -42,7 +42,7 @@ function addImagesToHome(className) {
   imgOne.setAttribute("class", className);
   imgOne.setAttribute("id", "images");
 
-  imgOne.src = "../dist/images/homeImage.jpg";
+  imgOne.src = "./images/homeImage.jpg";
 
   imgDiv.appendChild(imgOne);
 
